@@ -29,7 +29,7 @@
                 <h4>Call:</h4>
                 <p>+62 89660 660 023</p>
               </div>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.9413710088284!2d108.5114396143145!3d-6.654189366899671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6ee151a0f6d17f%3A0x9873fd7d40cd9020!2sJl.%20Desa%20Mayung%2C%20Mayung%2C%20Kec.%20Gunungjati%2C%20Cirebon%2C%20Jawa%20Barat%2045151!5e0!3m2!1sid!2sid!4v1628371729120!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://goo.gl/maps/NWDoE5mMReh49Dzk7" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
 
           </div>
